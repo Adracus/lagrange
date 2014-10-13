@@ -1,5 +1,5 @@
 name: lagrange
-version: 0.0.1
+version: 0.0.2
 author: Axel Christ <adracus@gmail.com>
 description: Package for lagrange interpolation
 homepage: https://github.com/Adracus/lagrange
