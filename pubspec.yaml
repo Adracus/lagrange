@@ -4,5 +4,5 @@ author: Axel Christ
 description: Package for lagrange interpolation
 homepage: https://github.com/Adracus/lagrange
 documentation: https://github.com/Adracus/lagrange
-dependencies:
+dev_dependencies:
   unittest: any
